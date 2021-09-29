@@ -1,11 +1,17 @@
-.font1{
+.font1header{
   font-family: 'Permanent Marker', cursive;
 }
 .font2{
   font-family: 'Kalam', cursive;
-  font-size: 30px;
+  font-size: 25px;
 
 }
+
+.font2degrees{
+  font-family: 'Kalam', cursive;
+  font-size: 20px;
+}
+
 .font3{
 
 font-family: 'Caveat', cursive;
